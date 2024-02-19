@@ -1,0 +1,16 @@
+num1 = 9
+num2 = 5
+sum1 = num1+num2
+sub = num1-num2
+mul = num1*num2
+div = num1/num2
+mod = num1%num2
+floor = num1//num2
+exp = num1**num2
+print("Addition=", sum1)
+print("Subtraction=", sub)
+print("Multiplication=", mul)
+print("quotient=", div)
+print("modulus=", mod)
+print("floor division=", floor)
+print("exponent=", exp)
